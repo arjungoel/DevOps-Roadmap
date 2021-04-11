@@ -21,3 +21,6 @@ This repository is for providing DevOps roadmap
 16. Servers
 17. YAML/JSON
 18. Serverless (if you want to focus on concepts like FaaS)
+19. Jenkins (Most Important)
+20. TravisCI, CircleCI
+
