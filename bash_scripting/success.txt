@@ -1,0 +1,3 @@
+true
+The result after concatenating string1 and string2 is: 
+The result after concatenating string1 and string2 is: arjungoel

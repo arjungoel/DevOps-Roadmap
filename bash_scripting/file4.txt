@@ -1,0 +1,20 @@
+total 68
+drwxrwxr-x 2 ec2-user ec2-user 4096 Jun 16 11:08 .
+drwx------ 5 ec2-user ec2-user  145 Jun 16 11:08 ..
+-rwxrwxr-x 1 ec2-user ec2-user  237 Jun 15 19:49 array.sh
+-rwxrwxr-x 1 ec2-user ec2-user  842 Jun 15 17:07 conditional_statements.sh
+-rwxrwxr-x 1 ec2-user ec2-user  600 Jun 15 18:15 continue_vs_loop.sh
+-rw-rw-r-- 1 ec2-user ec2-user   48 Jun 15 16:10 demo1.txt
+-rwxrwxr-x 1 ec2-user ec2-user  265 Jun 15 16:10 demo.sh
+-rw-rw-r-- 1 ec2-user ec2-user   17 Jun 15 16:10 demo.txt
+-rw-rw-r-- 1 ec2-user ec2-user 1034 Jun 16 11:01 file1.txt
+-rw-rw-r-- 1 ec2-user ec2-user   49 Jun 16 11:08 file2.txt
+-rw-rw-r-- 1 ec2-user ec2-user   49 Jun 16 11:08 file3.txt
+-rw-rw-r-- 1 ec2-user ec2-user    0 Jun 16 11:08 file4.txt
+-rw-rw-r-- 1 ec2-user ec2-user    0 Jun  5 20:46 file.txt
+-rwxrwxr-x 1 ec2-user ec2-user  369 Jun 15 15:57 helloWorld.sh
+-rw-rw-r-- 1 ec2-user ec2-user   27 Jun  5 20:46 helloWorld.txt
+-rwxrwxr-x 1 ec2-user ec2-user  123 Jun 15 16:17 heredoc.sh
+-rwxrwxr-x 1 ec2-user ec2-user  602 Jun 15 17:55 loops.sh
+-rw-rw-r-- 1 ec2-user ec2-user 1998 Jun 15 19:51 README.md
+-rwxrwxr-x 1 ec2-user ec2-user  237 Jun 16 11:08 script_output.sh
